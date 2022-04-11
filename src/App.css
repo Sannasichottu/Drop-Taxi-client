@@ -1,0 +1,67 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Aladin&family=Dancing+Script:wght@500&family=Great+Vibes&family=Roboto+Condensed:ital@1&display=swap"); */
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap'); */
+
+.App {
+  text-align: center;
+}
+.loginpage,
+.registerpage,
+.forgotpage,
+.resetpage {
+  display: flex;
+  height: 100vh;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  background-image: url("./assets/car-background.jpg");
+  background-size: cover;
+}
+.formcontainer {
+  display: flex;
+  max-width: 350px;
+  flex-direction: column;
+  padding: 15px;
+  background: #fff;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.bodycontent {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  row-gap: 17px;
+}
+.bodycontent1 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+.carimage {
+  max-width: 450px;
+  width: 100%;
+  height: auto;
+}
+.carinfo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+.centcont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media (max-width: 625px) {
+  .loginpage,
+  .registerpage,
+  .forgotpage,
+  .resetpage {
+    display: flex;
+    flex-direction: column;
+  }
+}

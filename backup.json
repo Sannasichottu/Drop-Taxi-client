@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Toyota Yaris",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Yaris/7283/1579858168291/front-left-side-47.jpg?tr=w-456",
+    "rentPerHour": 500,
+    "fuelType": "petrol",
+    "bookedTimeSlots": [],
+    "capacity": 5
+  },
+  {
+    "name": "Maruti Dzire",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Dzire-2020/7664/1584705998420/front-left-side-47.jpg?tr=w-456",
+    "rentPerHour": 500,
+    "fuelType": "petrol",
+    "bookedTimeSlots": [],
+    "capacity": 5
+  },
+  {
+    "name": "Hyundai Verna",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/7729/1616055133475/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+    "rentPerHour": 500,
+    "fuelType": "Diesel",
+    "bookedTimeSlots": [],
+    "capacity": 5
+  },
+  {
+    "name": "Honda City 4th Generation",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City-2017-2020/7259/Honda-City-2017-2020-SV-MT/1637828825177/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+    "rentPerHour": 500,
+    "fuelType": "petrol",
+    "bookedTimeSlots": [],
+    "capacity": 5
+  },
+  {
+    "name": "Hyundai Aura",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGvTIDMe0n7Ey-ZVqCCdgmgURicea8ePy4Zg&usqp=CAU",
+    "rentPerHour": 500,
+    "fuelType": "Diesel",
+    "bookedTimeSlots": [],
+    "capacity": 5
+  },
+  {
+    "name": "Honda Amaze",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Amaze/7439/1580301873085/front-left-side-47.jpg?tr=w-456",
+    "rentPerHour": 500,
+    "fuelType": "petrol",
+    "bookedTimeSlots": [],
+    "capacity": 5
+  },
+  {
+    "name": "Maruti Ciaz",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ciaz/7414/1615023791304/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+    "rentPerHour": 500,
+    "fuelType": "petrol",
+    "bookedTimeSlots": [],
+    "capacity": 5
+  },
+  {
+    "name": "Volkswagen Vento",
+    "image": "https://media.zigcdn.com/media/content/2020/Feb/2020-vw-polo-sedan-russia-spec-5.jpg",
+    "rentPerHour": 500,
+    "fuelType": "petrol",
+    "bookedTimeSlots": [],
+    "capacity": 5
+  }
+]
