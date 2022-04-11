@@ -38,7 +38,7 @@ function Login() {
         <Typography
           sx={{
             fontSize: { xs: "50px", sm: "60px" },
-            fontFamily: "Aladin",
+
             fontWeight: "bold",
             color: "#fff",
           }}
@@ -53,7 +53,7 @@ function Login() {
             <Typography
               variant="h4"
               sx={{
-                fontFamily: "Roboto Condensed",
+                fontFamily: "Bungee",
                 fontSize: { sm: "35px", xs: "28px" },
               }}
             >
