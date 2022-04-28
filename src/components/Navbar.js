@@ -33,7 +33,7 @@ function Navbar() {
             }}
             variant="h4"
           >
-            Car corner
+            Drop Taxi
           </Typography>
           <IconButton
             sx={{ marginLeft: "auto" }}

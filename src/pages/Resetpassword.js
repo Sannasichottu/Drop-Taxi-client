@@ -47,7 +47,7 @@ function Resetpassword() {
           }}
           variant="h1"
         >
-         Car Corner
+         Drop Taxi
         </Typography>
       </div>
       <div className="formcontainer">
