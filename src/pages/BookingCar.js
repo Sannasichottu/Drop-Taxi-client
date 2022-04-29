@@ -112,7 +112,7 @@ function BookCar({ car }) {
       key: "rzp_test_wt6S48PF3wQ702",
       amount: data.amount,
       currency: "INR",
-      name: "King Cars",
+      name: "Drop Taxi",
       description: "Booking Transaction",
       image:
         "https://image.shutterstock.com/z/stock-vector-king-car-logo-design-template-vector-illustration-466912277.jpg",
